@@ -1,13 +1,13 @@
 <?php
 /*
 Plugin Name: WP Highlighter
-Version: 1.0.1
+Version: 1.0.2
 Description: Show backdrop and highlight any element with related classes on page.
 Author: saadsiddique.ca
 Author URI: hello@saadsiddique.ca
 Text Domain: wp-highlighter
 */
-define( 'WP_HIGHLIGHTER_VERSION', '1.0.1' );
+define( 'WP_HIGHLIGHTER_VERSION', '1.0.2' );
 
 define( 'WP_HIGHLIGHTER_FILE', __FILE__ );
 
