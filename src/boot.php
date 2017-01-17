@@ -122,7 +122,7 @@ class Boot {
 							<?php if ( $status !== false && $status === 'valid' ) { ?>
 								<span style="color: #29c129; font-weight:bold; line-height: 27px;padding-right: 20px;">Your License is active. </span>
 								<?php wp_nonce_field( 'wp_highlighter_codes_nonce', 'wp_highlighter_codes_nonce' ); ?>
-								<input type="submit" class="button-secondary" name="wp_highlighter_code_license_deactivate"
+								<input type="submit" class="button-secondary" name="wp_highlighter_codes_license_deactivate"
 								       value="<?php _e( 'Deactivate License', 'wp-highlighter' ); ?>"/>
 							<?php } else {
 								wp_nonce_field( 'wp_highlighter_codes_nonce', 'wp_highlighter_codes_nonce' ); ?>
