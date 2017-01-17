@@ -1,10 +1,4 @@
 <?php
-/**
- * Created by PhpStorm.
- * User: Saad
- * Date: 2017-01-14
- * Time: 10:58 PM
- */
 
 namespace ss_wp_highlighter;
 
